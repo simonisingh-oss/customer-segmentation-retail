@@ -92,6 +92,3 @@ Different machine learning models are analyzed for customer segment prediction.
 - Scikit-learn
 
 
----
-
-## Repository Structure
